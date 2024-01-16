@@ -10,11 +10,11 @@ import java.io.PrintStream;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        WebDriver driver;
-        WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
-        driver.get("https://www.google.com");
-        driver.quit();
+//        WebDriver driver;
+//        WebDriverManager.chromedriver().setup();
+//        driver = new ChromeDriver();
+//        driver.get("https://www.google.com");
+//        driver.quit();
 
     }
 }
